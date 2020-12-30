@@ -9,8 +9,8 @@ When trying to get API response, some of the returned json  has the key 'data' a
 I'm trying to find the answer for this problem.
 
 # Quick analyzing: Questions...
-- How many duplicated products?
+- How many duplicated products are there? Can 1 product belong to different categories?
 - How many products are there in each category?
 - How many sellers are there on Tiki?
-- How many brands in Tiki? Name top 10 brands with the most products?
+- How many brand names on Tiki?
 - Which category has the most comments? Which category has the least comments?
